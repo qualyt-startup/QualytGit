@@ -1,0 +1,10 @@
+{
+    "name": "QUALYTCLUSTER",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "QUALYTCLUSTER",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
